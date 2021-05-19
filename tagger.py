@@ -55,7 +55,6 @@ class BasicTagger:
 
 
 if __name__ == "__main__":
-
     tagger = BasicTagger(
         account_id='835377776149',
         credentials={
